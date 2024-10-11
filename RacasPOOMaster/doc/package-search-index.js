@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"me.dio.app"},{"l":"me.dio.armaduras"},{"l":"me.dio.armas"},{"l":"me.dio.classes"},{"l":"me.dio.racas"}];updateSearchResults();
