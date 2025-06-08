@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.github.tostesx","c":"SysTurnRPG","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"com.github.tostesx","c":"SysTurnRPG","l":"SysTurnRPG()","u":"%3Cinit%3E()"}];updateSearchResults();
